@@ -1,22 +1,24 @@
 # LSTM-SAE
 Pytorch Implementation of LSTM-SAE(Long Short Term Memory - Stacked AutoEncoder)
 
+## Description of Repo.
+- 저자의 keras 구현 실습 예제
+- pytorch로 구현한 내 모델
+- dacon 대회에 적용한 결과
+
 ## Article
 [Unsupervised Pre-training of a Deep LSTM-based Stacked Autoencoder for Multivariate Time Series Forecasting Problems](https://www.nature.com/articles/s41598-019-55320-6#Ack1) - nature
 
 
-- **Figure 1. LSTM**
+- **LSTM**
 
   ![img](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41598-019-55320-6/MediaObjects/41598_2019_55320_Fig1_HTML.png?as=webp)
 
-- **Figure 2. AutoEncoder**
-  ![img](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41598-019-55320-6/MediaObjects/41598_2019_55320_Fig2_HTML.png?as=webp)
-
-- **Figure 3. LSTM-AE**
+- **LSTM-AE**
 
   ![img](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41598-019-55320-6/MediaObjects/41598_2019_55320_Fig3_HTML.png?as=webp)
 
-- **Figure 4. LSTM-Stacked AutoEncoder**
+- **LSTM-Stacked AutoEncoder**
 
   ![img](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41598-019-55320-6/MediaObjects/41598_2019_55320_Fig4_HTML.png?as=webp)
 
